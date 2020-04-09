@@ -4,7 +4,7 @@ Normal Equation is an analytical approach to Linear Regression with a Least Squa
 Normal Equation is a follows :
 ![Formula](https://media.geeksforgeeks.org/wp-content/uploads/Untitled-drawing-1-10.png)
 
-In the above equation,
-θ : hypothesis parameters that define it the best.
-X : Input feature value of each instance.
-Y : Output value of each instance.
+## In the above equation, ##
+* θ : hypothesis parameters that define it the best.
+* X : Input feature value of each instance.
+* Y : Output value of each instance.
